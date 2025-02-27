@@ -1,8 +1,8 @@
-這是一個使用C語言寫的升級打怪遊戲，一共有三關，每一關怪物的等級都會上升，使打敗怪物越來越難，但打敗怪物後玩家能賺取金幣並前往商店花錢購買遊戲道具。
+
+#升級打怪遊戲
+#這是一個使用C語言寫的升級打怪遊戲，一共有三關，每一關怪物的等級都會上升，使打敗怪物越來越難，但打敗怪物後玩家能賺取金幣並前往商店花錢購買遊戲道具。
 
 
-
-# I2P1_Final_project
 Introduction to programming 1 final project
 ## Rules
 - You can only use C language to do this project, otherwise you will get 0 point.
